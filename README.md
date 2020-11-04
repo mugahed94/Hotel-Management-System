@@ -28,6 +28,12 @@ In this section we provide an easy-to-use tool to manage a series of five star h
 
 ## User Needs
 
+### Admin
+
+### Guest
+
+### Staff
+
 
 ## Assumptions and Dependencies
 
