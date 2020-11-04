@@ -60,7 +60,11 @@ Housekeeping, laundry, food and drinks, car rental, parking, ...etc.
 ### Guest
 
 ### Staff
-
+- Recieve their tasks.  
+- Communicate with each other.  
+- Get notifications from Admin.  
+- Provide apologizes and appeals to the admin.  
+- Sent reports to the Admin.  
 
 ## Assumptions and Dependencies
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
