@@ -83,11 +83,17 @@ The Client-Side interface will be via the web browser showing the pages of the w
 
 ### Non-functional Requirements
 - Performance:  
+The application should update the interface on interaction within 2 seconds.  
+The database should be normalized to prevent redundant data and improve performance.  
+
 - Security:  
-secure connection to the server should be ensured. Also users passwords should be hashed before stored.
+secure connection to the server should be ensured. Also users passwords should be hashed before stored.  
+
 - Reliability:  
+
 - Availability:  
-This web app need to be compatible with Firefox and Google Chrome - the most popular web browsers.-
+This web app need to be compatible with Firefox and Google Chrome - the most popular web browsers.  
+
 - Usability:  
 This web app can be accessed via wide range of computer platforms as it works via web browsers making it  
 compatible with most operating systems.  
