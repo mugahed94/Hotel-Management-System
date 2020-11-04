@@ -65,6 +65,10 @@ Housekeeping, laundry, food and drinks, car rental, parking, ...etc.
 - Get notifications from Admin.  
 - Provide apologizes and appeals to the admin.  
 - Sent reports to the Admin.  
+- Check in and check out guests by providing them with an ID.  
+- Provide additional amenities to guests as offers from the worker.  
+- Mark the finished tasks as done.  
+- Post the fees for the services.  
 
 ## Assumptions and Dependencies
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
