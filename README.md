@@ -42,9 +42,11 @@ Used within hotels and tourism environment.
 
 ## Definitions
 - Housekeeping :  
-Cleaning and tiding rooms.
+Cleaning and tiding rooms.  
 - Hotel Events :  
-events organized by the hotel such as birthday parties.
+events organized by the hotel such as birthday parties.  
+-Hotel Services:  
+Housekeeping, laundry, food and drinks, car rental, parking, ...etc.  
 
 ## Overall Description
 
