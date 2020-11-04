@@ -63,7 +63,9 @@ events organized by the hotel such as birthday parties.
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
 loaded with operating system cabable of running a web browser.
 
-Hotels included within the system are 5-star hotles providing wide varaity of services and events and containing a relativly large number of visitors around 300 users.
+Hotels included within the system are 5-star hotles providing wide varaity of services and events and containing a relativly large number of visitors around 300 users.  
+
+High speed internet connectivity is assumed to ensure small response time.
 
 ## System Features and Requirements
 
