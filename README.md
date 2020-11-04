@@ -27,6 +27,9 @@ info and updates about their system to provide insights and marketing info.
 
 ## Contributers
 
+## Application Type
+Web Application accessable via a web browser.
+
 
 ## Intended Use
 
