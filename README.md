@@ -38,7 +38,7 @@ To be used by Hotels managers and admins, working staff like drivers, cleaning w
 also use by a wide varaity of guests from a wide range of age, cultures and conditions.
 
 ## Scope
-
+Used within hotels and tourism environment.
 
 ## Definitions
 - Housekeeping :  
