@@ -45,7 +45,7 @@ Used within hotels and tourism environment.
 Cleaning and tiding rooms.  
 - Hotel Events :  
 events organized by the hotel such as birthday parties.  
--Hotel Services:  
+- Hotel Services:  
 Housekeeping, laundry, food and drinks, car rental, parking, ...etc.  
 
 ## Overall Description
