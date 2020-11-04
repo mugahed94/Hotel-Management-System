@@ -60,6 +60,8 @@ events organized by the hotel such as birthday parties.
 
 
 ## Assumptions and Dependencies
+The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
+loaded with operating system cabable of running a web browser.
 
 ## System Features and Requirements
 
