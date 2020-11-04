@@ -49,7 +49,9 @@ events organized by the hotel such as birthday parties.
 Housekeeping, laundry, food and drinks, car rental, parking, ...etc.  
 
 ## Overall Description
-
+- Guest veiw point  
+- Admin veiw point  
+- Staff veiw point  
 
 ## User Needs
 
