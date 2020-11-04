@@ -26,6 +26,7 @@ info and updates about their system to provide insights and marketing info.
 
 
 ## Contributers
+waiting for team names and codes
 
 ## Application Type
 Web Application accessable via a web browser.
