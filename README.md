@@ -30,6 +30,8 @@ info and updates about their system to provide insights and marketing info.
 ## Application Type
 Web Application accessable via a web browser.
 
+## Programming languages used
+Python, HTML, CSS, JavaScript, MySql.
 
 ## Intended Use
 To be used by Hotels managers and admins, working staff like drivers, cleaning workers, waiter, ..etc
@@ -54,9 +56,6 @@ also use by a wide varaity of guests from a wide range of age, cultures and cond
 
 
 ## Assumptions and Dependencies
-
-## Programming languages used
-Python, HTML, CSS, JavaScript, MySql.
 
 ## System Features and Requirements
 
