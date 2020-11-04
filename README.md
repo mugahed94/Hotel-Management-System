@@ -59,6 +59,8 @@ Python, HTML, CSS, JavaScript, MySql.
 ### Functional Requirements
 
 ### External Interface Requirements
+This Web Application will need to interface with a database to provide all needed info including but not limited to : userdata, hotel attributes, ..etc.  
+The Client-Side interface will be via the web browser showing the pages of the web app.
 
 ### System Features
 
