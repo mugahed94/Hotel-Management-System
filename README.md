@@ -17,6 +17,10 @@ This web App is intended to be used by:
 - Admins / Manengers : to manage the working staff and serve and provide offers to cutomers while getting  
 info and updates about their system to provide insights and marketing info.  
 
+- Guests : who want to book rooms and attain high quality servecies.
+
+- Working Staff : who needs to veiw their tasks and communicate with other workers and guests.
+
 
 ## Contributers
 
