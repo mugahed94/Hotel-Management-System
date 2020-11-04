@@ -52,6 +52,7 @@ info and updates about their system to provide insights and marketing info.
 ## Assumptions and Dependencies
 
 ## Programming languages used
+Python, HTML, CSS, JavaScript, MySql.
 
 ## System Features and Requirements
 
