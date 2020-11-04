@@ -13,6 +13,9 @@ In this section we provide an easy-to-use tool to manage a series of five star h
 
 
 ## Intended Audience
+This web App is intended to be used by:  
+- Admins / Manengers : to manage the working staff and serve and provide offers to cutomers while getting  
+info and updates about their system to provide insights and marketing info.  
 
 
 ## Contributers
