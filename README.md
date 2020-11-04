@@ -10,6 +10,9 @@ varaity of services provided.
 In this section we provide an easy-to-use tool to manage a series of five star hotels.
 
 ## Purpose
+The purpose of this web application is to provide comfort and ease for hotel managers managing their provided services  
+by providing the user with simple and easy user interface while getting required information and showing all the details to system admins  to ensure best market value.  
+and also providing workers by good communication tools to increase the performance of the working team and clarify their day to day work objectives.
 
 
 ## Intended Audience
