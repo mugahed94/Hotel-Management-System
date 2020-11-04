@@ -76,7 +76,7 @@ system goals and how will function to deliver user's needs.
 detailed description of the application’s features and the user’s needs.  
 - Guest page  
 - Admin page  
-- staff page  
+- Staff page  
 
 ### External Interface Requirements
 This Web Application will need to interface with a database to provide all needed info including but not limited to : userdata, hotel attributes, ..etc.  
