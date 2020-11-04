@@ -60,6 +60,7 @@ also use by a wide varaity of guests from a wide range of age, cultures and cond
 ## System Features and Requirements
 
 ### Functional Requirements
+Under construction...  
 system goals and how will function to deliver user's needs.  
 detailed description of the application’s features and the user’s needs.  
 
