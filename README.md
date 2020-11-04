@@ -72,7 +72,7 @@ The Client-Side interface will be via the web browser showing the pages of the w
 
 ### Non-functional Requirements
 - Performance:  
-- Security: 
+- Security:  
 secure connection to the server should be ensured. Also users passwords should be hashed before stored.
 - Reliability:  
 - Availability:  
