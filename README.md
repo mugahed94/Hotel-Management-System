@@ -41,7 +41,10 @@ also use by a wide varaity of guests from a wide range of age, cultures and cond
 
 
 ## Definitions
-
+- Housekeeping :  
+Cleaning and tiding rooms.
+- Hotel Events :  
+events organized by the hotel such as birthday parties.
 
 ## Overall Description
 
