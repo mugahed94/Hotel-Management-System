@@ -88,5 +88,6 @@ secure connection to the server should be ensured. Also users passwords should b
 This web app need to be compatible with Firefox and Google Chrome - the most popular web browsers.-
 - Usability:  
 This web app can be accessed via wide range of computer platforms as it works via web browsers making it  
-compatible with most operating systems.
+compatible with most operating systems.  
+the interface should be basic and easy learn without a tutorial allowing user to acomplish their goals without errors.
 
