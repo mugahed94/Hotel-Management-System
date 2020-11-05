@@ -122,7 +122,7 @@ The system should be abl to provide the following :
 - Welcome page asking the client if he/she was a guest or admin/staff.  
 - Different page for every type of users.  
 - The system should store all needed information about the users.  
-
+- Login page.  
 
 For Guests: 
 - Guest page.  
@@ -171,6 +171,7 @@ The Client-Side interface will be via the web browser showing the pages of the w
 - Guest veiw point :  
 
 - Admin veiw point :  
+The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options: 
 
 - Staff veiw point :  
 
