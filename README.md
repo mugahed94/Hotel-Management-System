@@ -131,6 +131,8 @@ check in and out, payment, messages.
 - The system will force the guest to check out before leaving.  
 - The system will ask the user for payment visa/cash when leaving.  
 - The guest will be promoted for rating before leaving.  
+- The system will forbid the user from registering at two different hotels at the same time.  
+- The guest can book for other friends and family members.  
 
 For admins:  
 - Admin page.  
