@@ -71,7 +71,8 @@ The Admin should be able to:
 The guest shoud be able to:  
 - Send tips after service is done.  
 - Provide rating for the service.  
-- 
+- Provide their medical status -if special care is needed.-  
+- choose the room type.  
 
 ### Staff  
 The Admin should be able to:  
@@ -105,13 +106,31 @@ detailed description of the application’s features and the user’s needs.
 
 - Welcome page asking the client if he/she was a guest or admin/staff.  
 - Different page for every type of users.  
+- The system should store all needed information about the users.  
 
 
 For Guests: 
 - Guest page.  
 - Page asking the guest for the preferred location and suggesting nearby Hotels.  
 - Page asking the user for the duration of residence and different prices.  
-- The system should suggest hotels based on users preferences.  
+- The system should suggest and show hotels based on users preferences.  
+- Page showing chosen hotel with nearby locations, activities, and events.  
+- The system should provide pictures of the hotel and all the details about the offers and events shown
+including the place and price.  
+- Page for every room with its pros and cons, price, attributes like size, ..etc.  
+- payment page.
+- Page showing the user time available to check in before the deadline of applying a penality.  
+- Page asking the user for about extra information and suggesting related services that may be needed.  
+- The system need to show room info and guest services on the account page.  
+- Guest page will include box (button) for each of these : room, customer services, complaints, help, 
+check in and out, payment, messages.  
+- A page for every service.  
+- All boxes in guest account will be locked until arrival and checking in, except the check in box.  
+- user will check in using provided ID at arrival.  
+- A page deticated for every box in the account page.  
+- The system will force the guest to check out before leaving.  
+- The system will ask the user for payment visa/cash when leaving.  
+- The guest will be promoted for rating before leaving.  
 
 For admins:  
 - Admin page.  
