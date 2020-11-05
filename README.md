@@ -174,6 +174,7 @@ The Client-Side interface will be via the web browser showing the pages of the w
 The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options: 
 
 - Staff veiw point :  
+The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
 
 
 ### Non-functional Requirements
