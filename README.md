@@ -56,11 +56,22 @@ Housekeeping, laundry, food and drinks, car rental, parking, ...etc.
 
 ## User Needs
 
-### Admin
+### Admin  
+The Admin should be able to:  
+- Send messages to Staff.  
+- Send messages to Guests.  
+- Accept or deny incoming booking requests.  
+- Mark rooms and services as available or not.  
+- Add a new Service to a hotel.  
+- Change and control prices for each hotel separately.  
+- Can veiw system's statical information like how many rooms, cars, ..etc and their conditions.  
+- Should see revenue progress with time to acquire marketing info.  
+- Can veiw guests and staff status and/or cancel requests.  
 
-### Guest
+### Guest  
 
-### Staff
+### Staff  
+The Admin should be able to:  
 - Recieve their tasks.  
 - Communicate with each other.  
 - Get notifications from Admin.  
