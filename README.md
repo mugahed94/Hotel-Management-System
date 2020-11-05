@@ -1,6 +1,5 @@
 # Hotel Management System
 Term project of software engineering course, 3rd year computer engineering, Ain-Shams University.
-
 below is the SRS document of the system.  
 
 ## Introduction
@@ -14,16 +13,12 @@ The purpose of this web application is to provide comfort and ease for hotel man
 by providing the user with simple and easy user interface while getting required information and showing all the details to system admins  to ensure best market value.  
 and also providing workers by good communication tools to increase the performance of the working team and clarify their day to day work objectives.
 
-
 ## Intended Audience
 This web App is intended to be used by:  
 - Admins / Manengers : to manage the working staff and serve and provide offers to cutomers while getting  
 info and updates about their system to provide insights and marketing info.  
-
 - Guests : who want to book rooms and attain high quality servecies.
-
 - Working Staff : who needs to veiw their tasks and communicate with other workers and guests.
-
 
 ## Contributers
 waiting for team names and codes
@@ -110,9 +105,7 @@ The Admin should be able to:
 ## Assumptions and Dependencies
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
 loaded with operating system cabable of running a web browser.
-
 Hotels included within the system are 5-star hotles providing wide varaity of services and events and containing a relativly large number of visitors around 300 users.  
-
 High speed internet connectivity is assumed to ensure small response time.
 
 ## System Features and Requirements
