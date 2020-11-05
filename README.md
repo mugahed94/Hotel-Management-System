@@ -114,8 +114,6 @@ The database should be normalized to prevent redundant data and improve performa
 - Security:  
 secure connection to the server should be ensured. Also users passwords should be hashed before stored.  
 
-- Reliability:  
-
 - Availability:  
 This web app need to be compatible with Firefox and Google Chrome - the most popular web browsers.  
 
