@@ -186,27 +186,22 @@ the payment page provide the user with payment and currency options and the requ
 The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options:  
 Choose hotel : which leads to the previous page showing hotels list to choose from.  
 Guests : which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
-staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.
+staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.  
 guests complaints : a page shows recent guests complaints in the form of posts with date and case.  
-incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance. 
-room/services control :  
-statical info :  
-
+incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance.  
+room/services control :  page listing room and services and when clicked leads to a page with details and boxes and buttons for determining prices and availability of the room/service.  
+statical info :  page shows chats of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
 - Staff veiw point :  
 The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
-
 
 ### Non-functional Requirements
 - Performance:  
 The application should update the interface on interaction within 3 seconds.  
 The database should be normalized to prevent redundant data and improve performance.  
-
 - Security:  
 secure connection to the server should be ensured. Also users passwords should be hashed before stored.  
-
 - Availability:  
 This web app need to be compatible with Firefox and Google Chrome - the most popular web browsers.  
-
 - Usability:  
 This web app can be accessed via wide range of computer platforms as it works via web browsers making it  
 compatible with most operating systems.  
