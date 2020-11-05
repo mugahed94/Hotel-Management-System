@@ -191,14 +191,13 @@ the payment page provide the user with payment and currency options and the requ
 
 - Admin veiw point :  
 The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options:  
-- Choose hotel : which leads to the previous page showing hotels list to choose from.  
-- Guests : which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
-- staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.
-- guests complaints : a page shows recent guests complaints in the form of posts with date and case.  
-- incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance. 
-- room/services control :  
-- statical info :  
-
+Choose hotel : which leads to the previous page showing hotels list to choose from.  
+Guests : which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
+staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.
+guests complaints : a page shows recent guests complaints in the form of posts with date and case.  
+incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance. 
+room/services control :  
+statical info :  
 
 - Staff veiw point :  
 The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
