@@ -96,7 +96,7 @@ The Client-Side interface will be via the web browser showing the pages of the w
 
 ### Non-functional Requirements
 - Performance:  
-The application should update the interface on interaction within 2 seconds.  
+The application should update the interface on interaction within 3 seconds.  
 The database should be normalized to prevent redundant data and improve performance.  
 
 - Security:  
