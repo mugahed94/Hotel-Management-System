@@ -51,6 +51,8 @@ Housekeeping, laundry, food and drinks, car rental, parking, ...etc.
 
 ## Overall Description  
 
+
+
 ## User Needs
 
 ### Admin  
@@ -66,6 +68,10 @@ The Admin should be able to:
 - Can veiw guests and staff status and/or cancel requests.  
 
 ### Guest  
+The guest shoud be able to:  
+- Send tips after service is done.  
+- Provide rating for the service.  
+- 
 
 ### Staff  
 The Admin should be able to:  
@@ -78,6 +84,9 @@ The Admin should be able to:
 - Provide additional amenities to guests as offers from the worker.  
 - Mark the finished tasks as done.  
 - Post the fees for the services.  
+- Has a wallet to recieve guests tips.  
+- See their working history.  
+- Can notify other team members if they can't do the required service.  
 
 ## Assumptions and Dependencies
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
@@ -93,9 +102,29 @@ High speed internet connectivity is assumed to ensure small response time.
 Under construction...  
 system goals and how will function to deliver user's needs.  
 detailed description of the application’s features and the user’s needs.  
-- Guest page  
-- Admin page  
-- Staff page  
+
+- Welcome page asking the client if he/she was a guest or admin/staff.  
+- Different page for every type of users.  
+
+
+For Guests: 
+- Guest page.  
+- Page asking the guest for the preferred location and suggesting nearby Hotels.  
+- Page asking the user for the duration of residence and different prices.  
+- The system should suggest hotels based on users preferences.  
+
+For admins:  
+- Admin page.  
+
+For the staff:  
+- Staff page.  
+- Different account type for every staff/worker type.  
+- Chat board for the staff. 
+- A page for the workers to veiw their working history.  
+- Messages box to receive notifications from the Admin.
+- Messages box to receive notifications from other workers.  
+
+
 
 ### External Interface Requirements
 This Web Application will need to interface with a database to provide all needed info including but not limited to : userdata, hotel attributes, ..etc.  
