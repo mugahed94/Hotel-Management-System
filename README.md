@@ -72,7 +72,20 @@ The guest shoud be able to:
 - Send tips after service is done.  
 - Provide rating for the service.  
 - Provide their medical status -if special care is needed.-  
-- choose the room type.  
+- Choose the room type.  
+- Contact admins.  
+- Contact reception.  
+- Contact staff.  
+- Choose a hotel in his prefered location.  
+- Enter required registeration information.  
+- See his information and able to edit them if needed.  
+- Select a service.  
+- 
+- Create account.  
+- Reserve Hotel services.  
+- Chick in and check out.  
+- Read reviews and veiw hotel rating.  
+- Write reviews and give rating.  
 
 ### Staff  
 The Admin should be able to:  
@@ -151,9 +164,12 @@ This Web Application will need to interface with a database to provide all neede
 The Client-Side interface will be via the web browser showing the pages of the web app.
 
 ### System Features and use cases  
-- Guest veiw point  
-- Admin veiw point  
-- Staff veiw point  
+- Guest veiw point :  
+
+- Admin veiw point :  
+
+- Staff veiw point :  
+
 
 ### Non-functional Requirements
 - Performance:  
