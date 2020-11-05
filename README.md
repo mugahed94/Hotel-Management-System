@@ -66,6 +66,7 @@ The Admin should be able to:
 - Can veiw system's statical information like how many rooms, cars, ..etc and their conditions.  
 - Should see revenue progress with time to acquire marketing info.  
 - Can veiw guests and staff status and/or cancel requests.  
+- Select specific hotel to administrate.  
 
 ### Guest  
 The guest shoud be able to:  
