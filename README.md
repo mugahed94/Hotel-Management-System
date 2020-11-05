@@ -49,10 +49,7 @@ events organized by the hotel such as birthday parties.
 - Hotel Services:  
 Housekeeping, laundry, food and drinks, car rental, parking, ...etc.  
 
-## Overall Description
-- Guest veiw point  
-- Admin veiw point  
-- Staff veiw point  
+## Overall Description  
 
 ## User Needs
 
@@ -104,7 +101,10 @@ detailed description of the application’s features and the user’s needs.
 This Web Application will need to interface with a database to provide all needed info including but not limited to : userdata, hotel attributes, ..etc.  
 The Client-Side interface will be via the web browser showing the pages of the web app.
 
-### System Features
+### System Features and use cases  
+- Guest veiw point  
+- Admin veiw point  
+- Staff veiw point  
 
 ### Non-functional Requirements
 - Performance:  
