@@ -59,6 +59,7 @@ Housekeeping, laundry, food and drinks, car rental, parking, ...etc.
 The Admin should be able to:  
 - Send messages to Staff.  
 - Send messages to Guests.  
+- Veiw guests complaints.  
 - Accept or deny incoming booking requests.  
 - Mark rooms and services as available or not.  
 - Add a new Service to a hotel.  
@@ -169,6 +170,8 @@ The Client-Side interface will be via the web browser showing the pages of the w
 
 ### System Features and use cases  
 - Guest veiw point :  
+The guest will head to the main page (welcoming page) which will ask the client if he/she was a guest or admin/staff. If guest the app promotes a page asking for prefered location and suggesting nearby hotels based on that. The guest will then determine duration of residence and price. then the chosen hotel will be shown with nearby locations and events with pictures of the hotel, location and offers like a safari trip with detailed information like the place and the price. hotel rooms will be shown with their pros and cons and prices. after the room is chosen, the guest will be asked for payment and will be shown the time before the check in deadline to avoid penality. after that the guest will be asked some extra questions like his information and if the guest had accompanying animals or if car rental was need or if the guest had medical problems ..etc. the guest will be asked for any special services like birthday party ..etc.
+the room information and guest services will be displayed on the account page. If the guest the room its information will be displayed. the guest page will have several boxes : box for room, customer services, complaints, help, payments, messages. complaints box leads to a page which allow the guest to send a complaint messages to the complaints board which appears to the corresponding admin.
 
 - Admin veiw point :  
 The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options: 
