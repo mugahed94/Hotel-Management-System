@@ -80,7 +80,10 @@ The guest shoud be able to:
 - Enter required registeration information.  
 - See his information and able to edit them if needed.  
 - Select a service.  
-- 
+- Pay fees.  
+- get offers and suggestions.  
+- book for other friends and family members.  
+- provide compliants.  
 - Create account.  
 - Reserve Hotel services.  
 - Chick in and check out.  
