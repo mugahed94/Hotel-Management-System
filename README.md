@@ -183,7 +183,11 @@ the guest will be asked for any special services like birthday party ..etc.
 the room information and guest services will be displayed on the account page.  
 If the guest the room its information will be displayed.  
 the guest page will have several boxes : box for room, customer services, complaints, help, payments, messages.  
-complaints box leads to a page which allow the guest to send a complaint messages to the complaints board which appears to the corresponding admin.
+complaints box leads to a page which allow the guest to send a complaint messages to the complaints board which appears to the corresponding admin.  
+the customer service box leads to a page where which lists all services of the hotel.  and every entery leads to a page requesting this service. help page provide the user with details on how the system works.  
+messages pages provides messaging template and list options like mailing the admins or the staff or reception.  
+it also provide contact numbers of every team and service.  
+the payment page provide the user with payment and currency options and the required money.
 
 - Admin veiw point :  
 The admin will head to the main page and choose login option. Another page will open to provide user credentials. After that the Admin will be promoted to hotels list where the admin will choose the needed hotel to monitor. Then a dashboard for that hotel will appear with the following options: 
