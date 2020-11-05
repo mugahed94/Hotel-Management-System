@@ -6,7 +6,8 @@ below is the SRS document of the system.
 ## Introduction
 During this era of time hotels have increased in complexity due to the wider combination of guests and the wider
 varaity of services provided.
-In this section we provide an easy-to-use tool to manage a series of five star hotels.
+In this section we provide an easy-to-use tool to manage a series of five star hotels. Putting in mind important qualities for the tourism industry
+such as speed, performance, and security. providing the customer company with capabilities of expanding their business without changing the used software.  
 
 ## Purpose
 The purpose of this web application is to provide comfort and ease for hotel managers managing their provided services  
