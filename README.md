@@ -100,9 +100,7 @@ High speed internet connectivity is assumed to ensure small response time.
 ## System Features and Requirements
 
 ### Functional Requirements
-Under construction...  
-system goals and how will function to deliver user's needs.  
-detailed description of the application’s features and the user’s needs.  
+The system should be abl to provide the following :  
 
 - Welcome page asking the client if he/she was a guest or admin/staff.  
 - Different page for every type of users.  
