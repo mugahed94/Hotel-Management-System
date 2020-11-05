@@ -144,6 +144,7 @@ For the staff:
 - A page for the workers to veiw their working history.  
 - Messages box to receive notifications from the Admin.
 - Messages box to receive notifications from other workers.  
+- A to do list showing recent guests requests.  
 
 
 
