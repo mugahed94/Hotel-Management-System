@@ -211,8 +211,10 @@ current events shows a page with current held events and leads to a page detaili
 SERVICES: when selected it leads to a page with two buttons.  
 add service: leads to a page asking for new service info and details.  
 veiw service: leads to a page veiwing current services and when clicked leads to a page detailing the service.  
-
-Guests : which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
+MESSAGES: a button leads to (mail) page containing two buttons one called inbox, and the other called send.  
+inbox: leads to a page lists all received messages.  
+send: leads to sending page with two options guest and staff with both options leading to a page with a mail box and subject, senders are identefied by ID.  
+GUESTS: which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
 
 staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.  
 
