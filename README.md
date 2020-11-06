@@ -87,17 +87,17 @@ The guest shoud be able to:
 - Read reviews and veiw hotel rating.  
 - Write reviews and give rating.  
 
-### Staff  
-The Admin should be able to:  
+### Staff/manager  
+The staff should be able to:  
 - Recieve their tasks.  
 - Communicate with each other.  
 - Get notifications from Admin.  
 - Provide apologizes and appeals to the admin.  
 - Sent reports to the Admin.  
-- Check in and check out guests by providing them with an ID.  
-- Provide additional amenities to guests as offers from the worker.  
+- Check in and check out guests by providing them with an ID (manager only).  
+- Provide additional amenities to guests as offers (manager only).  
 - Mark the finished tasks as done.  
-- Post the fees for the services.  
+- Post the fees for the services (managers only).  
 - Has a wallet to recieve guests tips.  
 - See their working history.  
 - Can notify other team members if they can't do the required service.  
@@ -112,7 +112,6 @@ High speed internet connectivity is assumed to ensure small response time.
 
 ### Functional Requirements
 The system should be abl to provide the following :  
-
 - Welcome page asking the client if he/she was a guest or admin/staff.  
 - Different page for every type of users.  
 - The system should store all needed information about the users.  
@@ -145,6 +144,12 @@ check in and out, payment, messages.
 
 For admins:  
 - Admin page.  
+- A page showing guest complaints.  
+- A messages page to send/receive messages to both workers and guests.  
+- A page showing recent booking requests.  
+- A control service page showing current service with their status with the ability to block, allow or control service.  
+- The system should be able to add a service with the required attributes by the admin.  
+- a page for adding a service and entering its info.  
 
 For the staff:  
 - Staff page.  
@@ -154,8 +159,6 @@ For the staff:
 - Messages box to receive notifications from the Admin.
 - Messages box to receive notifications from other workers.  
 - A to do list showing recent guests requests.  
-
-
 
 ### External Interface Requirements
 This Web Application will need to interface with a database to provide all needed info including but not limited to : userdata, hotel attributes, ..etc.  
@@ -191,6 +194,7 @@ guests complaints : a page shows recent guests complaints in the form of posts w
 incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance.  
 room/services control :  page listing room and services and when clicked leads to a page with details and boxes and buttons for determining prices and availability of the room/service.  
 statical info :  page shows chats of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
+
 - Staff veiw point :  
 The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
 
