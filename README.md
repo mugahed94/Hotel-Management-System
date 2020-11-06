@@ -218,16 +218,21 @@ GUESTS: which leads to a page listing all guests by names and ID, guest info app
 STAFF : leads to a page showing staff catagories. when catagory is chosen list of worker appears by name and ID when clicked the workers info and status appears with the ability to assign or cancel assigned services by two buttons.  
 COMPLAINTS: a page shows recent guests complaints in the form of posts with date, name, ID, and case.  
 INCOMING REQUESTS: a page showing posts with booking details, each post has accept or deny button.  
-ROOMS: rooms button leads to (rooms) page listing rooms by number and ID,  when clicked leads to a page with room info and status that can be changed like full empty and price.  
+ROOMS: rooms button leads to (rooms) page listing rooms by number and ID,  
+when clicked leads to a page with room info and status that can be changed like full empty and price.  
 STATISTICAL INFO: a page with small boxes showing Statistics like room-full/all rooms, monthly revenue, monthly loss, cars in use compared to all cars, cafe chairs accupied, ..etc.  
 also there is history button showing Statistics of previous history. and also a charts button for more statistical insights.
 page shows charts of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
 
 - Staff/Manager veiw point :  
-The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
-dashboard for managers:  
-
+The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:   
 dashboard for staff:  
+MESSAGES: a button leads to (mail) page containing two buttons one called inbox, and the other called send.  
+inbox: leads to a page lists all received messages.  
+send: leads to sending page with two options guest and staff with both options leading to a page with a mail box and subject, senders are identefied by ID.  
+
+
+dashboard for managers:  
 
 ### Non-functional Requirements
 - Performance:  
