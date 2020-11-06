@@ -143,13 +143,18 @@ check in and out, payment, messages.
 - The guest can book for other friends and family members.  
 
 For admins:  
-- Admin page.  
+- Admin page (dashboard).  
+- Admin account page (showing account info).  
 - A page showing guest complaints.  
-- A messages page to send/receive messages to both workers and guests.  
+- A messages page to send messages to both workers and guests by ID.  
+- a page showing message.  
+- A mail inbox to receive guests and workers messages.  
 - A page showing recent booking requests.  
+- a page for every request showing details and ability to accept or deny.  
 - A control service page showing current service with their status with the ability to block, allow or control service.  
+- a page for each serivce showing its details.  
 - The system should be able to add a service with the required attributes by the admin.  
-- a page for adding a service and entering its info.  
+- a page for adding a services and entering its info.  
 
 For the staff:  
 - Staff page.  
