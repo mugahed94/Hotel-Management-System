@@ -150,6 +150,8 @@ check in and out, payment, messages.
 For admins:  
 - Admin page (dashboard).  
 - Admin account page (showing account info).  
+- a page showing company hotels to choose from with button to add another hotel.  
+-  
 - A page showing guest complaints.  
 - A messages page to send messages to both workers and guests by ID.  
 - a page showing message.  
