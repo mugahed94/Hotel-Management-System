@@ -66,6 +66,7 @@ The Admin should be able to:
 - Provide marketing information to the system.  
 - Organize housekeeping tasks and schedules.  
 - Add hotels and post available bookings.  
+- Events organization.  
 
 ### Guest  
 The guest shoud be able to:  
