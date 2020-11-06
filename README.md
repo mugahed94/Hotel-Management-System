@@ -63,6 +63,9 @@ The Admin should be able to:
 - Should see revenue progress with time to acquire marketing info.  
 - Can veiw guests and staff status and/or cancel requests.  
 - Select specific hotel to administrate.  
+- Provide marketing information to the system.  
+- Organize housekeeping tasks and schedules.  
+- Add hotels and post available bookings.  
 
 ### Guest  
 The guest shoud be able to:  
@@ -101,6 +104,8 @@ The staff should be able to:
 - Has a wallet to recieve guests tips.  
 - See their working history.  
 - Can notify other team members if they can't do the required service.  
+- Receive customers’ housekeeping requests.  
+- View their schedules and required tasks.  
 
 ## Assumptions and Dependencies
 The users need to have a web browser and internet connectivity. also its assumed that the users have a machine  
