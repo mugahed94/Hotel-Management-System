@@ -196,7 +196,9 @@ complaints box leads to a page which allow the guest to send a complaint message
 the customer service box leads to a page where which lists all services of the hotel.  and every entery leads to a page requesting this service. help page provide the user with details on how the system works.  
 messages pages provides messaging template and list options like mailing the admins or the staff or reception.  
 it also provide contact numbers of every team and service.  
-the payment page provide the user with payment and currency options and the required money.
+the payment page provide the user with payment and currency options and the required money.  
+The guest page has notifictions button leads to a page with recent notifications in the form of posts.  
+notifications can be from admin, the system itself or offers from the managers.  
 
 - Admin veiw point :  
 The admin will head to the main page and choose login option.  
@@ -235,8 +237,9 @@ STATUS: shows a list of working history with ratings and extra tips. when cliked
 also the page contains a wallet box showing workers income and tips info.
 NOTIFCATIONS: a page with a list of posts showing recent important news recieved from the admin or other worker.  
 ASK-MEMBERS: a page with urgent mail box to notify other staff members.  
-dashboard for managers contains two extra options (buttons):  
-GUESTS: 
+dashboard for managers contains extra option (button):  
+GUESTS: leads to a page with list of guests by ID, room and name, when guest is clicked  
+shows options like: checkin which sends ID notification to the guest, suggest offers, post fees.  
 
 ### Non-functional Requirements
 - Performance:  
