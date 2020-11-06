@@ -215,16 +215,13 @@ MESSAGES: a button leads to (mail) page containing two buttons one called inbox,
 inbox: leads to a page lists all received messages.  
 send: leads to sending page with two options guest and staff with both options leading to a page with a mail box and subject, senders are identefied by ID.  
 GUESTS: which leads to a page listing all guests by names and ID, guest info appears when clicked, asking for offers to be provided or messages to be send.  
-
-staff : leads to a page listing staff by name and ID. worker status appears when clicked with the ability to assign or cancel assigned services.  
-
-guests complaints : a page shows recent guests complaints in the form of posts with date and case.  
-
-incoming requests : shows list recent booking requests, details displayed when entery is clicked and ask for acceptance.  
-
-room/services control :  page listing room and services and when clicked leads to a page with details and boxes and buttons for determining prices and availability of the room/service.  
-
-statical info :  page shows chats of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
+STAFF : leads to a page showing staff catagories. when catagory is chosen list of worker appears by name and ID when clicked the workers info and status appears with the ability to assign or cancel assigned services by two buttons.  
+COMPLAINTS: a page shows recent guests complaints in the form of posts with date, name, ID, and case.  
+INCOMING REQUESTS: a page showing posts with booking details, each post has accept or deny button.  
+ROOMS: rooms button leads to (rooms) page listing rooms by number and ID,  when clicked leads to a page with room info and status that can be changed like full empty and price.  
+STATISTICAL INFO: a page with small boxes showing Statistics like room-full/all rooms, monthly revenue, monthly loss, cars in use compared to all cars, cafe chairs accupied, ..etc.  
+also there is history button showing Statistics of previous history. and also a charts button for more statistical insights.
+page shows charts of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
 
 - Staff veiw point :  
 The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
