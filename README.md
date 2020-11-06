@@ -223,8 +223,11 @@ STATISTICAL INFO: a page with small boxes showing Statistics like room-full/all 
 also there is history button showing Statistics of previous history. and also a charts button for more statistical insights.
 page shows charts of revenue, rooms full, rooms empty, services under usage and without usage ..etc.  
 
-- Staff veiw point :  
+- Staff/Manager veiw point :  
 The staff worker will head to the main page and choose login option. Another page will open to provide user credentials. After that the staff worker will be promoted to a dashboard with the following options:  
+dashboard for managers:  
+
+dashboard for staff:  
 
 ### Non-functional Requirements
 - Performance:  
