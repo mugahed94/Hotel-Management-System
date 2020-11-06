@@ -229,10 +229,14 @@ The staff worker will head to the main page and choose login option. Another pag
 dashboard for staff:  
 MESSAGES: a button leads to (mail) page containing two buttons one called inbox, and the other called send.  
 inbox: leads to a page lists all received messages.  
-send: leads to sending page with two options guest and staff with both options leading to a page with a mail box and subject, senders are identefied by ID.  
-
-
-dashboard for managers:  
+send: leads to sending page with two options admin and staff with both options leading to a page with a mail box and subject, senders are identefied by ID.  
+TASKS: a to-do list with check boxes and done buttons. all recent tasks appears here.  
+STATUS: shows a list of working history with ratings and extra tips. when cliked full details appear,  
+also the page contains a wallet box showing workers income and tips info.
+NOTIFCATIONS: a page with a list of posts showing recent important news recieved from the admin or other worker.  
+ASK-MEMBERS: a page with urgent mail box to notify other staff members.  
+dashboard for managers contains two extra options (buttons):  
+GUESTS: 
 
 ### Non-functional Requirements
 - Performance:  
