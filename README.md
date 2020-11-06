@@ -204,11 +204,11 @@ Another page will open to provide user credentials.
 After that the Admin will be promoted to a page listing all hotels in the group and a button to add a new hotel,  
 this button leads to a page to specify hotel info, other hotels icons in the list leads to the contoling dashboard for the corresponding hotel to monitor.  
 Then a dashboard for that hotel will appear with the following options:  
-Choose hotel : which leads to the previous page showing hotels list to choose from.  
-Events: when the admin select events button it leads to a page with two buttons (add event) and (current events),  
+CHOOSE HOTEL : which leads to the previous page showing hotels list to choose from.  
+EVENTS: when the admin select events button it leads to a page with two buttons (add event) and (current events),  
 add event leads to a page to enter event info.  
 current events shows a page with current held events and leads to a page detailing the event when clicked.  
-Services: when selected it leads to a page with two buttons.  
+SERVICES: when selected it leads to a page with two buttons.  
 add service: leads to a page asking for new service info and details.  
 veiw service: leads to a page veiwing current services and when clicked leads to a page detailing the service.  
 
