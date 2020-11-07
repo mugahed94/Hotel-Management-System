@@ -76,7 +76,6 @@ The guest shoud be able to:
 - Choose the room type.  
 - Contact admins.  
 - Contact reception.  
-- Contact staff.  
 - Choose a hotel in his prefered location.  
 - Enter required registeration information.  
 - See his information and able to edit them if needed.  
@@ -102,6 +101,7 @@ The staff should be able to:
 - Provide additional amenities to guests as offers (manager only).  
 - Mark the finished tasks as done.  
 - Post the fees for the services (managers only).  
+- Veiw guests complaints (managers only).  
 - Has a wallet to recieve guests tips.  
 - See their working history.  
 - Can notify other team members if they can't do the required service.  
